@@ -13,7 +13,7 @@ function Home() {
                 <p className="text-justify md:text-base text-sm">
                   <strong className="text-[#3E8000]">
                     The International Journal of Advanced Trends in Robotics and
-                    Automation (IJATRA)
+                    Automation
                   </strong>{" "}
                   is a peer-reviewed, open-access journal dedicated to
                   publishing high-quality research and advancements in robotics,
@@ -45,7 +45,7 @@ function Home() {
               </div>
               <p className="text-justify md:text-base text-sm">
                 The International Journal of Advanced Trends in Robotics and
-                Automation (IJATRA) is a peer-reviewed, open-access journal
+                Automation is a peer-reviewed, open-access journal
                 focused on cutting-edge research in robotics, automation, and
                 intelligent systems. We publish innovative studies in AI-driven
                 robotics, industrial automation, human-robot interaction, and

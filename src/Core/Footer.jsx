@@ -14,11 +14,11 @@ const Footer = () => {
             <div className='flex flex-col justify-center md:items-start items-center md:text-left lg:text-base text-sm'>
               <div className='flex gap-3 items-center'>
                 <FaEnvelope />
-                <p>Email: <a href="mailto:editor@AJARCSE.com" className=" ">editorijatra@gmail.com</a></p>
+                <p>Email: <a href="mailto:editor@ijatra.com" className=" ">editor@ijatra.com</a></p>
               </div>
               <div className='flex gap-3 items-center'>
                 <FaGlobe />
-                <p>Website: <a href="https://www.AJARCSE.com" className=" ">www.ijatra.com</a></p>
+                <p>Website: <a href="https://ijatra.com/" className=" ">www.ijatra.com</a></p>
               </div>
               <div className=' p-3 '>
                 <img className='md:ml-auto md:mx-0 mx-auto w-24   block' src="/assets/Images/ojs_brand.png" alt="ojs" />

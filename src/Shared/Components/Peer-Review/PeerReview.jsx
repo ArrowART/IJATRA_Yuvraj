@@ -13,7 +13,7 @@ function PeerReview() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Advanced Trends in Robotics and Automation (IJATRA) follows a rigorous peer review process to maintain the highest standards of academic excellence and research integrity.                            </p>
+                                The International Journal of Advanced Trends in Robotics and Automation follows a rigorous peer review process to maintain the highest standards of academic excellence and research integrity.                            </p>
 
                         </section>
 

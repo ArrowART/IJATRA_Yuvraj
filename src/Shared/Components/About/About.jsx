@@ -9,7 +9,7 @@ function About() {
             <section className="flex justify-between flex-wrap md:flex-nowrap gap-5">
               <div className="flex flex-col justify-evenly">
                 <p className="text-justify md:text-base text-sm">
-                  The International Journal of Advanced Trends in Robotics and Automation (IJATRA) is a peer-reviewed, open-access journal dedicated to publishing high-quality research and advancements in robotics, automation, artificial intelligence, and intelligent systems. It serves as a platform for researchers, academicians, and industry professionals to share innovative ideas, methodologies, and cutting-edge developments that drive automation across various industries, including manufacturing, healthcare, transportation, agriculture, space exploration, and smart cities. Committed to fostering interdisciplinary research, IJATRA welcomes original research articles, review papers, case studies, and technical reports that contribute to the continuous evolution of robotics and automation technologies.
+                  The International Journal of Advanced Trends in Robotics and Automation is a peer-reviewed, open-access journal dedicated to publishing high-quality research and advancements in robotics, automation, artificial intelligence, and intelligent systems. It serves as a platform for researchers, academicians, and industry professionals to share innovative ideas, methodologies, and cutting-edge developments that drive automation across various industries, including manufacturing, healthcare, transportation, agriculture, space exploration, and smart cities. Committed to fostering interdisciplinary research, IJATRA welcomes original research articles, review papers, case studies, and technical reports that contribute to the continuous evolution of robotics and automation technologies.
                 </p>
               </div>
               <img className="mx-auto  border p-0.5 border-[#3e8000] " src="/assets/Images/aboutt.png" alt="" />
@@ -21,7 +21,7 @@ function About() {
                 </h1>
               </div>
               <p className="text-justify md:text-base text-sm">
-                International Journal advanced trends in Robotics and Automation  (IJATRA) covers a broad range of topics in robotics, automation, and artificial intelligence. The journal aims to bridge the gap between theoretical research and real-world applications by publishing innovative studies, reviews, and technical advancements.
+                International Journal advanced trends in Robotics and Automation covers a broad range of topics in robotics, automation, and artificial intelligence. The journal aims to bridge the gap between theoretical research and real-world applications by publishing innovative studies, reviews, and technical advancements.
               </p>
               <div className='flex flex-col gap-2 md:text-base text-sm'>
                 <div className='flex items-center gap-2'>

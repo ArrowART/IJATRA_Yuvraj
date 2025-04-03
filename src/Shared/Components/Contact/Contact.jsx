@@ -50,7 +50,7 @@ function Contact() {
                                             ></textarea>
                                         </div>
                                         <div className="text-center ">
-                                            <button type="submit" className="py-3 px-5 text-sm  bg-primary-blue-color  text-center  hover:bg-white hover:text-primary-blue-color hover:border border text-white   bg-primary-red-color sm:w-fit hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300    " >
+                                            <button type="submit" className="py-3 px-5 text-sm  bg-primary-blue-color  text-center   bg-[#3e8000]   cursor-pointer hover:text-primary-blue-color hover:border border text-white   bg-primary-red-color sm:w-fit hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300    " >
                                                 Send message
                                             </button>
                                         </div>
@@ -59,7 +59,7 @@ function Contact() {
                                 <h3 className="mt-5 text-center text-sm md:text-lg">
                                     {" "}
                                     For any queries contact Email :{' '}
-                                    <a href="mailto:editor@AJARCSE.com" className="text-blue-700 " >
+                                    <a href="mailto:editor@ijatra.com" className="text-blue-700 " >
                                         editor@ijatra.com
                                     </a>
                                 </h3>

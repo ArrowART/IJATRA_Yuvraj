@@ -13,7 +13,7 @@ function AimandScope() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Advanced Trends in Robotics and Automation (IJATRA) is a peer-reviewed, open-access journal that aims to publish high-quality research in the fields of robotics, automation, artificial intelligence, control systems, and related areas. The journal provides a platform for researchers, academicians, and industry professionals to share their latest innovations, trends, and challenges in the evolving field of robotics and automation.              </p>
+                                The International Journal of Advanced Trends in Robotics and Automation is a peer-reviewed, open-access journal that aims to publish high-quality research in the fields of robotics, automation, artificial intelligence, control systems, and related areas. The journal provides a platform for researchers, academicians, and industry professionals to share their latest innovations, trends, and challenges in the evolving field of robotics and automation.              </p>
 
                         </section>
 
@@ -24,7 +24,7 @@ function AimandScope() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Advanced Trends in Robotics and Automation (IJATRA) aims to be a premier platform for publishing high-quality research in robotics, automation, and artificial intelligence. The journal fosters innovation by bridging the gap between academic research and industrial applications, promoting interdisciplinary collaborations, and advancing state-of-the-art technologies that drive automation and intelligent systems forward.              </p>
+                                The International Journal of Advanced Trends in Robotics and Automation aims to be a premier platform for publishing high-quality research in robotics, automation, and artificial intelligence. The journal fosters innovation by bridging the gap between academic research and industrial applications, promoting interdisciplinary collaborations, and advancing state-of-the-art technologies that drive automation and intelligent systems forward.              </p>
                             <div className='flex flex-col gap-2  md:text-base text-sm'>
                                 <div className='flex items-center gap-2'>
                                     <i className="fi fi-rr-angle-double-small-right   flex items-center"></i>
@@ -49,7 +49,7 @@ function AimandScope() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Advanced Trends in Robotics and Automation (IJATRA) publishes high-quality research that explores innovations in robotics, automation, artificial intelligence, and related fields. The journal serves as a global platform for researchers, academicians, and industry professionals to share their latest advancements, addressing both theoretical and practical challenges in modern automation technologies.      </p>
+                                The International Journal of Advanced Trends in Robotics and Automation publishes high-quality research that explores innovations in robotics, automation, artificial intelligence, and related fields. The journal serves as a global platform for researchers, academicians, and industry professionals to share their latest advancements, addressing both theoretical and practical challenges in modern automation technologies.      </p>
 
                         </section>
                         <section>

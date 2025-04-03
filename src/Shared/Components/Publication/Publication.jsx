@@ -13,7 +13,7 @@ function Publication() {
                                 </h1>
                             </div>
                             <p className="text-justify md:text-base text-sm">
-                                The International Journal of Advanced Trends in Robotics and Automation (IJATRA) is committed to upholding the highest ethical standards in scholarly publishing. Authors, reviewers, and editors are expected to adhere to the following principles:
+                                The International Journal of Advanced Trends in Robotics and Automation is committed to upholding the highest ethical standards in scholarly publishing. Authors, reviewers, and editors are expected to adhere to the following principles:
                             </p>
                         </section>
 
